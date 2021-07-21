@@ -35,7 +35,7 @@ print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;92m'+'hacking database...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
-print '\033[1;94m'+'Found!...'+'\033[0;0m'
+print '\033[1;94m'+'Hacked!...'+'\033[0;0m'
 time.sleep(2)# Sleep for 2 seconds
 print '\033[1;92m'+'Password...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
@@ -44,4 +44,4 @@ print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 print '\033[1;92m'+'Email...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
-print 'the password and email was saved in disk :D'
+print '\033[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'

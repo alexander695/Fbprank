@@ -1,4 +1,4 @@
-print '\033[1;91m'+'''FACEBOOK HACK'''+'\033[0;0m'
+print 'FACEBOOK HACK'.center(50)
 
 
 
@@ -9,9 +9,7 @@ nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")
 time.sleep(3) # Sleep for 1 seconds
-print ""
 print '\033[31m'+'reading backup file and message from'+'\033[0;0m', nmr
-print ""
 time.sleep(2) # Sleep for 1 seconds
 print '\033[1;92m'+'20%'+'\033[0;0m'
 time.sleep(3) # Sleep for 1 seconds

@@ -20,11 +20,11 @@ time.sleep(2) # Sleep for 2 seconds
 print '\033[1;92m'+'90%'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;92m'+'100%'+'\033[0;0m'
-time.sleep(4) # Sleep for 4 seconds
+time.sleep(3) # Sleep for 4 seconds
 print '\033[1;92m'+'Facebok photos...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
-time.sleep(4) # Sleep for 4 seconds
+time.sleep(3) # Sleep for 4 seconds
 print '\033[1;92m'+'Facebook audio...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'

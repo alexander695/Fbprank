@@ -39,7 +39,7 @@ print '\033[1;94m'+'Found!...'+'\033[0;0m'
 time.sleep(1)# Sleep for 1 seconds
 print '\033[1;92m'+'Password...'+'\033[0;0m'
 time.sleep(2) # Sleep for 1 seconds
-print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'time.sleep(4)
+print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 # Sleep for 1 seconds
 print '\033[1;92m'+'Email...'+'\033[0;0m'
 time.sleep(2) # Sleep for 1 seconds

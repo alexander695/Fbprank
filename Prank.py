@@ -1,10 +1,13 @@
+#requirements#
 from colorama import Fore
 import time
+import os
+#bannner#
 print (Fore.GREEN + 'FACEBOOK HACK').center(50)
 
 
 
-
+#CODE#
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")

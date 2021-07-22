@@ -1,4 +1,4 @@
-print  (W + + G +'FACEBOOK HACK'+ W +).center(50)
+print (W + '     [' + G +'FACEBOOK HACK'+ W + ']').center(50)
 
 
 

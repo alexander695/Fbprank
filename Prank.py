@@ -1,6 +1,6 @@
 from colorama import Fore
 
-print (Fore.GREEN + 'FACEBOOK HACK')
+print (Fore.GREEN + 'FACEBOOK HACK').center(50)
 
 
 
@@ -8,7 +8,6 @@ print (Fore.GREEN + 'FACEBOOK HACK')
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")
-time.sleep(3) # Sleep for 3 seconds
 print '\033[31m'+'reading backup file and message from'+'\033[0;0m', nmr
 time.sleep(3) # Sleep for 3 seconds
 print '\033[1;92m'+'20%'+'\033[0;0m'

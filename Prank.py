@@ -1,8 +1,10 @@
-print green('FACEBOOK HACK').center(50)
+from colorama import Fore
+
+print (Fore.GREEN + 'FACEBOOK HACK')
 
 
 
-from colors import red, green, blue 
+
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")

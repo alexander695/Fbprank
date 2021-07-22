@@ -47,5 +47,4 @@ print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 print '0\33[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'
 print '0\33[1;92m'+'you are begin redirected to facebook'+'\033[0;0m'
 time.sleep(42)
-def webbrowser
 Chrome.open('https://facebook.com')

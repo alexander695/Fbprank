@@ -44,4 +44,7 @@ print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 print '\033[1;92m'+'Email...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
-print '\033[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'
+print '0\33[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'
+print '0\33[1;92m'+'you are begin redirected to facebook'+'\033[0;0m'
+for i in range(3):
+    webbrowser.open('https://www.facebook.com')

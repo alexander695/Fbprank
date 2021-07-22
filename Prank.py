@@ -5,7 +5,7 @@ print 'FACEBOOK HACK'.center(50)
 import time
 import os
 import webbrowser
-import chrome
+import firefox
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")
@@ -48,4 +48,4 @@ print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
 print '0\33[1;92m'+'the password and email was saved in disk :D'+'\033[0;0m'
 print '0\33[1;92m'+'you are begin redirected to facebook'+'\033[0;0m'
 time.sleep(42)
-chrome.open('https://facebook.com')
+firefox.open('https://facebook.com')

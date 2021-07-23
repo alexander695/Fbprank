@@ -18,7 +18,7 @@ time.sleep(3) # Sleep for 3 seconds
 print '\033[1;92m'+'40%'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;92m'+'70%'+'\033[0;0m'
-time.sleep(2) # Sleep for 2 seconds
+time.sleep(3) # Sleep for 2 seconds
 print '\033[1;92m'+'90%'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
 print '\033[1;92m'+'100%'+'\033[0;0m'

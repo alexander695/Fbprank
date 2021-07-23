@@ -3,12 +3,14 @@ from colorama import Fore
 import time
 import os
 #bannner#
-print (Fore.GREEN + '|======='.center(50)
-print (Fore.GREEN + '|      ').center(50)
-print(Fore.GREEN + ' |======'.center(50)                         
-print (Fore.GREEN + '|      ').center(50)                                
-print (Fore.GREEN + '|      ').center(50)             
-#code#       
+print (Fore.GREEN + '                       ____                  ____       
+print (Fore.GREEN + '|=======     /\       /      |=====  |      /    \     |      /      |       |     ').center(50)
+print (Fore.GREEN + '|           /  \     /       |       |     /      \    |    /        |       |      ').center(50)
+print (Fore.GREEN + '|======   ========= |        |=====  |__  /        \   |=====        |_______|        ').center(50)                         
+print (Fore.GREEN + '|         /      \  |        |       |  \ \        /   |     \       |       |        ').center(50)                                
+print (Fore.GREEN + '|        /        \  \_____  |====== |___/ \______/    |      \      |       |         ').center(50)
+print (Fore.GREEN + '                                                                       (hack)                          
+#code#
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
 s = raw_input("yes or no?: ")

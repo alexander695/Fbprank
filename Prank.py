@@ -3,7 +3,7 @@ from colorama import Fore
 import time
 import os
 #bannner#
-print (Fore.GREEN + '                       ____                  ____       
+print (Fore.GREEN + '                       ____                  ____   ').center(50)     
 print (Fore.GREEN + '|=======     /\       /      |=====  |      /    \     |      /      |       |     ').center(50)
 print (Fore.GREEN + '|           /  \     /       |       |     /      \    |    /        |       |      ').center(50)
 print (Fore.GREEN + '|======   ========= |        |=====  |__  /        \   |=====        |_______|        ').center(50)                         

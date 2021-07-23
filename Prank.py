@@ -41,7 +41,7 @@ print '\033[1;94m'+'Hacked!...'+'\033[0;0m'
 time.sleep(2)# Sleep for 2 seconds
 print '\033[1;92m'+'Password...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds
-print '\033[1;94m'+'Found! downloading...'+'\033[0;0m'
+print '\033[1;94m'+'downloading...'+'\033[0;0m'
 
 print '\033[1;92m'+'Email...'+'\033[0;0m'
 time.sleep(2) # Sleep for 2 seconds

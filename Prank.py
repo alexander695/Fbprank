@@ -3,15 +3,15 @@ from colorama import Fore
 import time
 import os
 #bannner#
-print (Fore.GREEN + "                       ____                   ____   ").center(50)     
-print (Fore.GREEN + "|=======     /\       /      |====== |       /    \     |     /       |       |     ").center(50)
-print (Fore.GREEN + "|           /  \     /       |       |      /      \    |    /        |       |      ").center(50)
-print (Fore.GREEN + "|======   ========= |        |====== |__   /        \   |=====        |_______|        ").center(50)                         
-print (Fore.GREEN + "|         /      \  |        |       |   \ \        /   |     \       |       |        ").center(50)                                
-print (Fore.GREEN + "|        /        \  \_____  |====== |___/  \______/    |      \      |       |         ").center(50)
-print (Fore.GREEN + "                                                                        (hack)    ").center(50)                       
+print (Fore.BLUE + "                       ____                   ____   ").center(50)     
+print (Fore.BLUE + "|=======     /\       /      |====== |       /    \     |     /       |       |     ").center(50)
+print (Fore.BLUE + "|           /  \     /       |       |      /      \    |    /        |       |      ").center(50)
+print (Fore.BLUE + "|======   ========= |        |====== |__   /        \   |=====        |_______|        ").center(50)                         
+print (Fore.BLUE + "|         /      \  |        |       |   \ \        /   |     \       |       |        ").center(50)                                
+print (Fore.BLUE + "|        /        \  \_____  |====== |___/  \______/    |      \      |       |         ").center(50)
+print (Fore.GREEN + "                                                                       (hack)    ").center(50)                       
 print (Fore.YELLOW + "Coded by KILLER")
-print (Fore.BLUE + "youtube:intruder on the web")
+print (Fore.MAGENTA + "youtube:intruder on the web")
 #code#
 nmr = raw_input('what is the username?:')
 print (Fore.RED + 'confirm this is the username?:'), nmr

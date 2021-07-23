@@ -10,6 +10,8 @@ print (Fore.GREEN + '|======   ========= |        |====== |__   /        \   |==
 print (Fore.GREEN + '|         /      \  |        |       |   \ \        /   |     \       |       |        ').center(50)                                
 print (Fore.GREEN + '|        /        \  \_____  |====== |___/  \______/    |      \      |       |         ').center(50)
 print (Fore.GREEN + '                                                                       (hack)    ').center(50)                       
+print (Fore.YELLOW + 'Coded by KILLER'
+print (Fore.BLUE + 'youtube:intruder on the web'
 #code#
 nmr = raw_input("what victim's Name?:")
 print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr

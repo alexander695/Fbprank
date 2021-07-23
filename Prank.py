@@ -14,7 +14,7 @@ print (Fore.YELLOW + "Coded by KILLER")
 print (Fore.BLUE + "youtube:intruder on the web")
 #code#
 nmr = raw_input('what is the username?:')
-print (Fore.RED + 'what is the username?:'), nmr
+print (Fore.RED + 'confirm this is the username?:'), nmr
 s = raw_input("yes or no?: ")
 print '\033[31m'+'reading backup file and message from'+'\033[0;0m', nmr
 time.sleep(2)

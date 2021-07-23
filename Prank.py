@@ -14,7 +14,7 @@ print (Fore.YELLOW + 'Coded by KILLER')
 print (Fore.BLUE + 'youtube:intruder on the web')
 #code#
 nmr = raw_input("what victim's Name?:")
-print '\033[31m'+'victim Name is: ?'+'\033[0;0m', nmr
+print (Fore.RED + 'what is the username?:'), nmr
 s = raw_input("yes or no?: ")
 print '\033[31m'+'reading backup file and message from'+'\033[0;0m', nmr
 time.sleep(2)

@@ -3,13 +3,13 @@ from colorama import Fore
 import time
 import os
 #bannner#
-print (Fore.BLUE + "                       ____                   ____   ").center(50)     
-print (Fore.BLUE + "|=======     /\       /      |====== |       /    \     |     /       |       |     ").center(50)
-print (Fore.BLUE + "|           /  \     /       |       |      /      \    |    /        |       |      ").center(50)
-print (Fore.BLUE + "|======   ========= |        |====== |__   /        \   |=====        |_______|        ").center(50)                         
-print (Fore.BLUE + "|         /      \  |        |       |   \ \        /   |     \       |       |        ").center(50)                                
-print (Fore.BLUE + "|        /        \  \_____  |====== |___/  \______/    |      \      |       |         ").center(50)
-print (Fore.GREEN + "                                                                       (hack)    ").center(50)                       
+print (Fore.BLUE + "                       ____                    ____       ____   ").center(50)     
+print (Fore.BLUE + "|=======     /\       /      |====== |        /    \     /    \    |      /       |       |     ").center(50)
+print (Fore.BLUE + "|           /  \     /       |       |       /      \   /      \   |     /        |       |      ").center(50)
+print (Fore.BLUE + "|======   ========= |        |====== |__    /        \ /        \  |=====         |_______|        ").center(50)                         
+print (Fore.BLUE + "|         /      \  |        |       |   \  \        / \        /  |     \        |       |        ").center(50)                                
+print (Fore.BLUE + "|        /        \  \_____  |====== |___/   \______/   \______/   |      \       |       |         ").center(50)
+print (Fore.GREEN + "                                                                                   (hack)    ").center(50)                       
 print (Fore.YELLOW + "Coded by KILLER")
 print (Fore.MAGENTA + "youtube:intruder on the web")
 #code#

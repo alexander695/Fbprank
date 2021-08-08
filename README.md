@@ -11,6 +11,7 @@ to update the repositori in the terminal put
 debug:
 
 if not executed installs the requirements
+
 #pip install colorama
 
 LICENSE

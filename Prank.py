@@ -2,6 +2,9 @@
 from colorama import Fore
 import time
 import os
+#installing requirements#
+print 'installing requirements...'
+pip install colorama
 #bannner#
 print (Fore.BLUE + "                       ____                    ____       ____   ").center(50)     
 print (Fore.BLUE + "|=======     /\       /      |====== |        /    \     /    \    |      /       |       |     ").center(50)

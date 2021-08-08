@@ -6,9 +6,12 @@ This can be used to threaten someone, make a joke or I don't know what you want
 to update the repositori in the terminal put 
 
 
-git pull
+#git pull
 
+debug:
 
+if not executed installs the requirements
+#pip install colorama
 
 LICENSE
 

@@ -16,4 +16,4 @@ if not executed installs the requirements
 
 LICENSE
 
-ANY USE, MODIFICATION OF MY CODE FIRST YOU WILL HAVE TO CONTACT ME alexanderomarhinojosaperez300@gmail.com
+ANY IMPORT OF MY PROJECT FIRST NEEDS MY PERMISSION  iamkiller678@gmail.com

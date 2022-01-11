@@ -7,8 +7,6 @@ to update the repository in the terminal put
 
 git pull
 
-debug:
-
 # Requirements
 
 #pip install colorama
